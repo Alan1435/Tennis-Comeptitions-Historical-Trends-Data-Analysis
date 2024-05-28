@@ -3,6 +3,8 @@
 This is a continuous project where I spent my time cleaning data related to tennis player's performace in competitions and their background as well as physical characteristics. 
 I use regression analysis to understand the trends of male tennis player's performace in historical competitions with respect to varying factors. Check out my result in the **notebook** above. 
 
+![Tennis](images/Tennis.png)
+
 Here is an exmaple paper of the type of reuslt and historcal analysis that comes form this project:
 
 ## Abstract:
